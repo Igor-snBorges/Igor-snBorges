@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorm4aster@gmail.com)](mailto:igorm4aster@gmail.com) [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-360/) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
 <div align="center">
  
-[![capa](https://media.discordapp.net/attachments/1088554408469602305/1150910872110235729/capa_blog_datascience.png)](https://github.com/Igor-snBorges?tab=repositories)
+[![capa](https://media.discordapp.net/attachments/1088554408469602305/1150910871808250027/Capa-do-blog.jpg)](https://github.com/Igor-snBorges?tab=repositories)
 ---
 
  # IGOR BORGES 
