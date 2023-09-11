@@ -9,8 +9,8 @@
 
  </div>
 
-- Cientista de Dados apaixonado por transformar números em insights. Com habilidades em análise avançada, machine learning e visualização de dados, estou em uma missão constante para desvendar o potencial oculto nos dados e direcionar decisões informadas. Movido pela curiosidade e inovação, meu objetivo é impulsionar o impacto positivo através da ciência de dados.
-- Passionate Data Scientist dedicated to turning numbers into insights. With expertise in advanced analytics, machine learning, and data visualization, I'm on a constant mission to unlock hidden potential in data and drive informed decisions. Fueled by curiosity and innovation, my aim is to make a positive impact through data science.
+- **Cientista de Dados** com habilidades em análise avançada, machine learning e visualização de dados, estou em uma missão constante para desvendar o potencial oculto nos dados e direcionar decisões informadas. Movido pela curiosidade e inovação, meu objetivo é impulsionar o impacto positivo através da ciência de dados.
+- **Data Scientist** with expertise in advanced analytics, machine learning, and data visualization, I'm on a constant mission to unlock hidden potential in data and drive informed decisions. Fueled by curiosity and innovation, my aim is to make a positive impact through data science.
 
 ## ⚡ **Principais Repositórios:**
 
