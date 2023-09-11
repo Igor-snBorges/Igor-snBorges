@@ -9,8 +9,8 @@
 
  </div>
 
-- Analista/ Cientista de dados com habilidadesem análise estatística e ferramentas de visualização. Proficiente em transformar dados em insights acionáveis para impulsionar a tomada de decisões estratégicas. Comprovada capacidade de comunicação e trabalho em equipe.
-- Data analyst with proficiency in statistical analysis and visualization tools. Skilled in translating data into actionable insights to drive strategic decision-making. Proven communication and teamwork abilities.
+- Cientista de Dados apaixonado por transformar números em insights. Com habilidades em análise avançada, machine learning e visualização de dados, estou em uma missão constante para desvendar o potencial oculto nos dados e direcionar decisões informadas. Movido pela curiosidade e inovação, meu objetivo é impulsionar o impacto positivo através da ciência de dados.
+- Passionate Data Scientist dedicated to turning numbers into insights. With expertise in advanced analytics, machine learning, and data visualization, I'm on a constant mission to unlock hidden potential in data and drive informed decisions. Fueled by curiosity and innovation, my aim is to make a positive impact through data science.
 
 ## ⚡ **Principais Repositórios:**
 
