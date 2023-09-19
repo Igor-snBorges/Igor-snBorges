@@ -16,7 +16,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Igor-snBorges&repo=Portfolio-Data-Science\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/Igor-snBorges/Portfolio-Data-Science) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Igor-snBorges&repo=Portfolio-Data-Science\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/Igor-snBorges/Portfolio-Power-Bi) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Igor-snBorges&repo=Portfolio-Power-Bi\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/Igor-snBorges/Portfolio-Power-Bi) 
 
 ## 📊 **My Stats:**
 
